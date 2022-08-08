@@ -1,0 +1,13 @@
+
+input{
+    margin-right: 30px;
+}
+.user{
+    float: right;
+     color: white;
+     padding-right: 40px;
+}
+#drop{
+    padding-right: 35px;
+    color:white;
+}
